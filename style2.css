@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+p {
+    width: 500px;
+    height: 500px;
+    padding: 50px 60px 50px 60px;
+    border-radius: 5px;
+    font-family: "lato, regular";
+    color: #111 ;
+    background-color: #ebebeb;
+    font-size: 16px;
+    line-height: 24px;
+    box-sizing: border-box;
+}
