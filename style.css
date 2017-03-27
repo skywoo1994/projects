@@ -44,7 +44,7 @@ nav {
     background-image: url("http://kingofwallpapers.com/runway/runway-008.jpg");
     background-position: center;
     width: 100%;
-    padding: 200px 100px;
+    padding: 100px 100px;
 }
 .headercontents {
     position: absolute;
@@ -78,7 +78,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
-    margin: 20px 5px 5px 0px;
+    margin: 10px 5px 5px 0px;
 }
 .col2 {
     width:300px;
@@ -86,7 +86,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
-    margin: 20px 5px 5px 0px;
+    margin: 10px 5px 5px 0px;
 }
 .col3 {
     width:300px;
@@ -94,7 +94,7 @@ nav {
     font-size: 18px;
     display: inline-block;
     font-family:'Jeju Gothic';
-    margin: 20px 0px 5px 5px;
+    margin: 10px 0px 5px 5px;
 }
 .footer {
     background-color:#8B4513;
