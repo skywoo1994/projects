@@ -79,6 +79,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
+    margin: 50px 10px;
 }
 .col2 {
     width:300px;
@@ -87,6 +88,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
+    margin: 50px 10px;
 
 }
 .col3 {
@@ -96,6 +98,7 @@ nav {
     font-size: 18px;
     display: inline-block;
     font-family:'Jeju Gothic';
+    margin: 50px 10px;
 
 }
 .footer {
