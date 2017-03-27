@@ -24,6 +24,7 @@ nav {
     font-size: 30px;
     display: inline;
     color: white;
+    
 
 }
 .navbar ul{
@@ -38,6 +39,7 @@ nav {
     color: gray;
     display: inline-block;
     margin-top: 0px;
+    text-decoration: none;
 }
 .header {
     height: 600px;
@@ -58,6 +60,7 @@ nav {
     text-align: center;
     color: black;
     margin-top: 0;
+    text-shadow: 4px 4px 4px #aaa;
     
 }
 .header h2{
