@@ -69,7 +69,7 @@ nav {
 .section {
     width:100%;
     height: 800px;
-    background-color: #00bfff;
+    background-color: #8b8989;
     padding: 100px 15px 20px 15px;
 }
 .col1 {
@@ -97,7 +97,7 @@ nav {
     float: left;
 }
 .footer {
-    background-color:#a52a2a;
+    background-color:black;
     height: 60px;
     padding-top:20px;
 }
@@ -106,4 +106,5 @@ nav {
     font-family:'Jeju Gothic';
     text-align: center;
     margin-top:0;
+    color:white;
 }
