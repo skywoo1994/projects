@@ -27,14 +27,16 @@ nav {
 .navbar ul{
     list-style-type: none;
     text-align: right;
-    margin-top: -10px;
-    display: inline-block;
+    margin-top: 0px;
+
 }
 .navbar li{
     font-family: 'Tangerine';
     font-size: 18px;
     text-align: right;
     color: gray;
+    display: inline-block;
+    margin-top: 0px;
 }
 .header {
     height: 600px;
@@ -71,14 +73,16 @@ nav {
     width: 100%;
 }
 .col1 {
-    width:33%;
+    width:300px;
+    height:500px;
     float: left;
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
 }
 .col2 {
-    width:33%;
+    width:300px;
+    height:500px;
     float: left;
     font-family: 'Caudex';
     font-size: 18px;
@@ -86,7 +90,8 @@ nav {
 
 }
 .col3 {
-    width:33%;
+    width:300px;
+    height:500px;
     float: left;
     font-size: 18px;
     display: inline-block;
