@@ -17,19 +17,19 @@ nav {
     background-color: #87cefa;
     padding-left: 50px;
     padding-right:50px;
+    padding-top:22px;
 }
 .navbar h1{
     font-family: 'Cinzel';
     font-size: 30px;
-    color: white;
     display: inline;
-    float: left;
+    color: white;
+
 }
 .navbar ul{
     list-style-type: none;
-    text-align: right;
-    margin: 0 auto;
-
+    display: inline;
+    margin-left:400px;
 }
 .navbar li{
     font-family: 'Tangerine';
@@ -64,13 +64,13 @@ nav {
     font-family:'Caudex';
     font-size: 20px;
     text-align: center;
-    color: #778899;
+    color: #8b8b83;
 }
 .section {
     width:100%;
     height: 800px;
-    background-color: #cdc9c9;
-    padding: 100px 15px 20px 15px;
+    background-color: #838b83;
+    padding: 50px 15px 20px 15px;
 }
 .col1 {
     width:300px;
