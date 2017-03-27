@@ -64,7 +64,7 @@ nav {
     font-family:'Caudex';
     font-size: 20px;
     text-align: center;
-    color: #D3D3D3;
+    color: #2f4f4f;
 }
 .section {
     width:100%;
@@ -77,24 +77,24 @@ nav {
     height:500px;
     font-family: 'Caudex';
     font-size: 18px;
-    display: inline-block;
     margin: 10px 5px 5px 0px;
+    float: left;
 }
 .col2 {
     width:300px;
     height:500px;
     font-family: 'Caudex';
     font-size: 18px;
-    display: inline-block;
     margin: 10px 5px 5px 0px;
+    float: left;
 }
 .col3 {
     width:300px;
     height:500px;
     font-size: 18px;
-    display: inline-block;
     font-family:'Jeju Gothic';
     margin: 10px 0px 5px 5px;
+    float: left;
 }
 .footer {
     background-color:#8B4513;
