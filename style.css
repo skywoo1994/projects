@@ -14,6 +14,8 @@ nav {
 .navbar{
     height: 80px;
     background-color: #87cefa;
+    padding-left: 50px;
+    padding-right:50px;
 }
 .navbar h1{
     font-family: 'Cinzel';
@@ -25,66 +27,80 @@ nav {
 .navbar ul{
     list-style-type: none;
     text-align: right;
+    margin-top: -10px;
+    display: inline-block;
 }
 .navbar li{
     font-family: 'Tangerine';
     font-size: 18px;
     text-align: right;
-    display: inline-block;
-    color: black;
+    color: gray;
 }
 .header {
     height: 600px;
     background-image: url("http://kingofwallpapers.com/runway/runway-008.jpg");
     background-position: center;
-    margin: auto;
+    width: 100%;
+    padding: 200px 100px;
+}
+.headercontents {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    
 }
 .header h1{
     font-family:'Cinzel Decorative';
     font-size: 100px;
     text-align: center;
     color: black;
-    margin: auto;
+    margin-top: 0;
+    
 }
 .header h2{
     font-family:'Caudex';
     font-size: 20px;
     text-align: center;
-    color: white;
+    color: #D3D3D3;
 }
 .section {
     width:100%;
     height: 800px;
-    background-color: #78AB46;
+    background-color: #f0f8ff;
     padding: 100px 15px 20px 15px;
+    width: 100%;
 }
 .col1 {
-    width:30%;
+    width:33%;
     float: left;
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
 }
 .col2 {
-    width:30%;
-    float: center;
+    width:33%;
+    float: left;
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
 
 }
 .col3 {
-    width:30%;
-    float: right;
+    width:33%;
+    float: left;
     font-size: 18px;
     display: inline-block;
-    font-family:'jejugothic';
+    font-family:'Jeju Gothic';
 
 }
 .footer {
     background-color:#8B4513;
     height: 60px;
+    padding-top:20px;
+}
+.footer p{
     font-size: 18px;
-    font-family:'jejugothic';
+    font-family:'Jeju Gothic';
     text-align: center;
+    margin-top:0;
 }
