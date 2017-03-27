@@ -6,6 +6,7 @@ padding: 0;
 }
 .container{
     width: 960px;
+    float: center;
 }
 nav {
     width:100%;
@@ -79,7 +80,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
-    margin: 50px 10px;
+    margin: 50px 5px;
 }
 .col2 {
     width:300px;
@@ -88,8 +89,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
-    margin: 50px 10px;
-
+    margin: 50px 5px;
 }
 .col3 {
     width:300px;
@@ -98,8 +98,7 @@ nav {
     font-size: 18px;
     display: inline-block;
     font-family:'Jeju Gothic';
-    margin: 50px 10px;
-
+    margin: 50px 5px;
 }
 .footer {
     background-color:#8B4513;
