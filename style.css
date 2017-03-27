@@ -6,7 +6,7 @@ padding: 0;
 }
 .container{
     width: 960px;
-    float: center;
+    margin: 0 auto;
 }
 nav {
     width:100%;
@@ -69,7 +69,7 @@ nav {
 .section {
     width:100%;
     height: 800px;
-    background-color: #f0f8ff;
+    background-color: #4682b4;
     padding: 100px 15px 20px 15px;
 }
 .col1 {
@@ -78,7 +78,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
-    margin: 20px 10px 5px 0px;
+    margin: 20px 5px 5px 0px;
 }
 .col2 {
     width:300px;
@@ -86,7 +86,7 @@ nav {
     font-family: 'Caudex';
     font-size: 18px;
     display: inline-block;
-    margin: 20px 5px 5px 5px;
+    margin: 20px 5px 5px 0px;
 }
 .col3 {
     width:300px;
@@ -94,7 +94,7 @@ nav {
     font-size: 18px;
     display: inline-block;
     font-family:'Jeju Gothic';
-    margin: 20px 0px 5px 10px;
+    margin: 20px 0px 5px 5px;
 }
 .footer {
     background-color:#8B4513;
